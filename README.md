@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/sagaeminami/original_app.png?columns=all)](https://waffle.io/sagaeminami/original_app?utm_source=badge)
 # README
 
 This README would normally document whatever steps are necessary to get the
